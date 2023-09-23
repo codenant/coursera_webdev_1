@@ -10,7 +10,7 @@ body {
 	background-color: #FFF5E0;
 	border: 0;
 	border-radius: 0;
-	padding: 5px;
+	padding: 3px;
 	margin: 0;
 }
 
@@ -67,14 +67,6 @@ p {
 }
 div#chicken {
 	background-color: #82A0D8;
-	margin-bottom: 30px;
-}
-div#beef {
-	background-color: #ECEE81;
-	margin-bottom: 30px;
-}
-div#sushi {
-	background-color: #8DDFCB;
 	margin-bottom: 30px;
 }
 
